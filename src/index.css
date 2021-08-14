@@ -88,3 +88,16 @@ body {
     padding-right: 50px;
     float: left;
   }
+
+  .FaqIMG {
+    content: "";
+    display: block;
+    width: 300;
+    height: 300;
+    padding-right: 50px;
+    float: left;
+  }
+
+  li.FaqHeader{
+    font-weight: bold;
+  }
